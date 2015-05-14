@@ -1333,3 +1333,9 @@ footer .footer-links p{float:left; background:url(images/footer_arrow.png) right
   color: #fff;
 }
 	
+#description-top {
+  margin-top: 51px;
+  text-align: center;
+  font-size: 19px;
+  padding: 5px 5px 0;
+}
